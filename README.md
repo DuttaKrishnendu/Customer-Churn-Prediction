@@ -13,14 +13,6 @@ This project is an interactive web application that predicts customer churn usin
 
 ---
 
-## 🚀 How to Use the Deployed App
-
-1.  Navigate to the Streamlit app URL.
-2.  Use the sidebar controls to input customer information like tenure, contract type, and monthly charges.
-3.  The app will automatically update and display the churn prediction result on the main page.
-
----
-
 ## 🛠️ Technologies Used
 
 * **Language:** Python
@@ -28,14 +20,6 @@ This project is an interactive web application that predicts customer churn usin
 * **Machine Learning:** Scikit-learn, XGBoost
 * **Web Application:** Streamlit
 * **Version Control:** Git & GitHub
-
----
-
-## 📂 Project Structure
-├── streamlit_app_churn _prediction.py  # The main Streamlit application script
-├── best_model_xgboost.pkl            # The pre-trained XGBoost model file
-├── requirements.txt                  # Python dependencies for the project
-└── README.md                         # Project information
 
 ---
 
