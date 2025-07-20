@@ -1,4 +1,5 @@
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://customer-churn-prediction--krishnendu-dutta.streamlit.app/)
+[Click here to view the app](https://customer-churn-prediction--krishnendu-dutta.streamlit.app/)
 # Customer Churn Prediction 📊
 
 This project is an interactive web application that predicts customer churn using a machine learning model. Users can input customer details through a simple web interface, and the application provides a real-time prediction of whether the customer is likely to churn or not. The app is built with Python and deployed using Streamlit.
